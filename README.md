@@ -1,5 +1,8 @@
 # ramDash
 a Data Chart Tool 数据大屏工具
+
+![ramDash数据大屏工具]("https://github.com/lingdu2012/ramDash/blob/main/tools.png")
+
 ### 技术实现
 主要使用Electron、Svelte、Bootstrap、Echarts等主要技术及组件构成，采用Rollup作为前端工程构建打包工具，实现PC桌面端的数据大屏工具。
 ### 主要功能
